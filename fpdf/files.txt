@@ -1,0 +1,17 @@
+/usr/lib/python3.7/site-packages/fpdf/py3k.py
+/usr/lib/python3.7/site-packages/fpdf/template.py
+/usr/lib/python3.7/site-packages/fpdf/fonts.py
+/usr/lib/python3.7/site-packages/fpdf/ttfonts.py
+/usr/lib/python3.7/site-packages/fpdf/fpdf.py
+/usr/lib/python3.7/site-packages/fpdf/php.py
+/usr/lib/python3.7/site-packages/fpdf/__init__.py
+/usr/lib/python3.7/site-packages/fpdf/html.py
+/usr/lib/python3.7/site-packages/fpdf/__pycache__/py3k.cpython-37.pyc
+/usr/lib/python3.7/site-packages/fpdf/__pycache__/template.cpython-37.pyc
+/usr/lib/python3.7/site-packages/fpdf/__pycache__/fonts.cpython-37.pyc
+/usr/lib/python3.7/site-packages/fpdf/__pycache__/ttfonts.cpython-37.pyc
+/usr/lib/python3.7/site-packages/fpdf/__pycache__/fpdf.cpython-37.pyc
+/usr/lib/python3.7/site-packages/fpdf/__pycache__/php.cpython-37.pyc
+/usr/lib/python3.7/site-packages/fpdf/__pycache__/__init__.cpython-37.pyc
+/usr/lib/python3.7/site-packages/fpdf/__pycache__/html.cpython-37.pyc
+/usr/lib/python3.7/site-packages/fpdf-1.7.2-py3.7.egg-info

@@ -1,0 +1,8 @@
+*.pdf
+appunti.txt
+*.xml
+sumatra.exe
+__pycache__
+installer-win32
+build
+sumatrapdfcache
